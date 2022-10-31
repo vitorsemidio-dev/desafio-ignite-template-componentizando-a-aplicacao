@@ -1,3 +1,4 @@
+import { Header } from './Header';
 import { MovieCard } from './MovieCard';
 
 import '../styles/content.scss';
@@ -19,14 +20,9 @@ interface ContentProps {
 }
 
 export function Content({ movies, selectedGenreTitle }: ContentProps) {
-  // Complete aqui
   return (
     <div className="container">
-      <header>
-        <span className="category">
-          Categoria:<span> {selectedGenreTitle}</span>
-        </span>
-      </header>
+      <Header selectedGenreTitle={selectedGenreTitle} />
 
       <main>
         <div className="movies-list">

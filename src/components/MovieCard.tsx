@@ -1,6 +1,10 @@
+import { memo } from 'react';
 import { Star, Clock } from 'react-feather';
 
 import '../styles/movie-card.scss';
+
+const MemoStar = memo(Star);
+const MemoClock = memo(Clock);
 
 interface MovieCardProps {
   title: string;
@@ -22,11 +26,11 @@ export function MovieCard(props: MovieCardProps) {
           <span>{props.title}</span>
           <div className="meta">
             <div>
-              <Star /> {props.rating}
+              <MemoStar /> {props.rating}
             </div>
 
             <div>
-              <Clock /> {props.runtime}
+              <MemoClock /> {props.runtime}
             </div>
           </div>
         </div>
