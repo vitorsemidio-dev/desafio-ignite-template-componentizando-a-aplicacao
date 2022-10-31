@@ -21,7 +21,9 @@
 - A primeira categoria da lista (que é "Ação") já deve começar como marcada;
 - O header da aplicação possui apenas o nome da categoria selecionada que deve mudar dinamicamente.
 
-Descrição completa do desafio: [Desafio 02 - Componentizando a aplicação](./docs/Desafio%2002%20-%20Componentizando%20a%20aplica%C3%A7%C3%A3o.md)
+Descrição completa dos desafios:
+- [Componentizando a aplicação](./docs/01%20-%20Componentizando%20a%20aplica%C3%A7%C3%A3o/Componentizando%20a%20aplica%C3%A7%C3%A3o.md)
+- [Otimizando a aplicação](./docs/02%20-%20Otimizando%20a%20aplica%C3%A7%C3%A3o/Otimizando%20a%20aplica%C3%A7%C3%A3o.md)
 
 
 

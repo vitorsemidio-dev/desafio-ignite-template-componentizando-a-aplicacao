@@ -1,9 +1,3 @@
-# Desafio 02 - Componentizando a aplicação
-
-Módulo: Módulo 1
-Status: In progress
-Trilha: React
-
 # 💻 Sobre o desafio
 
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
@@ -82,7 +76,7 @@ Se você preferir, pode também componentizar algumas outras partes da aplicaç�
 
 Está com dúvidas (ou curioso 👀) para ver como deve ficar a aplicação ao final do desafio? Deixamos abaixo um vídeo mostrando as principais funcionalidades que você deve implementar para te ajudar (ou matar sua curiosidade 👀).
 
-[./assets/demo.mp4](./assets/demo.mp4)
+https://user-images.githubusercontent.com/52754546/198946966-c3b9aae5-c8e3-4e0a-879d-68decd47230c.mp4
 
 # Solução do desafio
 
